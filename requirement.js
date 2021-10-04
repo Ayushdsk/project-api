@@ -51,3 +51,10 @@
  //1.Delete a book      Done
  //2.Delete author from book       Had to do it
  //3.Delete author from book and related author
+
+//Schema-Blueprint of the dta has to be constructed
+//Monodb is schemaless
+//Mongoose has schema
+//mongoose - validation, relationship with other data
+//Model__  Document model of Mongodb
+//schema__ Model->use them

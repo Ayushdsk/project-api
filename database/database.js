@@ -28,12 +28,14 @@ const publication = [
   {
     id: 1,
     name: "Writex",
-    books: ["123Books"]
+    books: ["123Books"],
+    date: "2021-21-2"
   },
   {
     id: 2,
     name: "hellafi",
-    books: [""]
+    books: [""],
+    date: "2021-21-2"
   }
 ]
 
